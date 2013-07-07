@@ -20,3 +20,5 @@
 操作示例：
 
     $ git clone git://github.com/gotgithub/helloworld.git
+$ git add README.md
+$ git commit -m "README for this project."
